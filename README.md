@@ -12,7 +12,7 @@ CSD207: Java Project
 5. Akash Gupta
 
 Instructor- Dr. Anuradha Ravi
---
+
 How to Run- 
 1. Import Project
 2. Run Connect4.java
